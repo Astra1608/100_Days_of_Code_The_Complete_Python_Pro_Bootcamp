@@ -8,7 +8,7 @@ files:
     learner_created: false
   - name: solution.py
     visible: true
-    learner_created: false
+    learner_created: true
 status: Solved
-record: -1
+record: 10
 post_submission_on_open: true
